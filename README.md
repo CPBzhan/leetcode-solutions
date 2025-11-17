@@ -21,6 +21,7 @@ leetcode-solutions/
 
 | ID | Problem | Difficulty | Languages | Last Update |
 |----|---------|------------|-----------|-------------|
+| 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
 | 1513 | NumberOfStrOly1 | Medium | [PY](./src/1513-NumberOfStrOly1/1513.py) | 2025-11-16 |
 | 2536 | IncrementSubmatrixBy1 | Medium | [PY](./src/2536-IncrementSubmatrixBy1/2536.py) | 2025-11-14 |
 | 3228 | Maximum Operations | Medium | [CPP](./src/3228-Maximum-Operations/3228.cpp) | 2025-11-13 |
