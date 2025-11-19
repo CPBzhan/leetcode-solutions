@@ -22,6 +22,7 @@ leetcode-solutions/
 | ID | Problem | Difficulty | Languages | Last Update |
 |----|---------|------------|-----------|-------------|
 | 118 | PascalTriangle | Easy | [PY](./src/118-PascalTriangle/118.py) | 2025-11-19 |
+| 119 | PascalTriangle2 | Easy | [PY](./src/119-PascalTriangle2/119.py) | 2025-11-19 |
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
 | 898 | BitwiseOrSubarr | Medium | [PY](./src/898-BitwiseOrSubarr/898.py) | 2025-11-18 |
 | 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
