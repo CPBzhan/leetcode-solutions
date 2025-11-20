@@ -26,6 +26,7 @@ leetcode-solutions/
 | 192 | InSubsequence | Easy | [PY](./src/192-InSubsequence/192.py) | 2025-11-20 |
 | 509 | FibNum | Easy | [PY](./src/509-FibNum/509.py) | 2025-11-20 |
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
+| 757 | SetIntersectionTwo | Hard | [PY](./src/757-SetIntersectionTwo/757.py) | 2025-11-20 |
 | 898 | BitwiseOrSubarr | Medium | [PY](./src/898-BitwiseOrSubarr/898.py) | 2025-11-18 |
 | 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
 | 1513 | NumberOfStrOly1 | Medium | [PY](./src/1513-NumberOfStrOly1/1513.py) | 2025-11-16 |
