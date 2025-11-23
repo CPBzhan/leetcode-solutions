@@ -28,6 +28,7 @@ leetcode-solutions/
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
 | 757 | SetIntersectionTwo | Hard | [PY](./src/757-SetIntersectionTwo/757.py) | 2025-11-20 |
 | 898 | BitwiseOrSubarr | Medium | [PY](./src/898-BitwiseOrSubarr/898.py) | 2025-11-18 |
+| 1262 | GreatSumDiv3 | Medium | [PY](./src/1262-GreatSumDiv3/1262.py) | 2025-11-23 |
 | 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
 | 1513 | NumberOfStrOly1 | Medium | [PY](./src/1513-NumberOfStrOly1/1513.py) | 2025-11-16 |
 | 1930 | Unique3Palindromic | Medium | [PY](./src/1930-Unique3Palindromic/1930.py) | 2025-11-21 |
