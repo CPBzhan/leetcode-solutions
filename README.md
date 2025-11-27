@@ -38,3 +38,4 @@ leetcode-solutions/
 | 3190 | FindMinOpDiv3 | Easy | [PY](./src/3190-FindMinOpDiv3/3190.py) | 2025-11-22 |
 | 3228 | Maximum Operations | Medium | [CPP](./src/3228-Maximum-Operations/3228.cpp) | 2025-11-13 |
 | 3234 | CntTheSubstrWith1 | Medium | [PY](./src/3234-CntTheSubstrWith1/3234.py) | 2025-11-15 |
+| 3381 | maxSubArrDivK | Medium | [PY](./src/3381-maxSubArrDivK/3381.py) | 2025-11-27 |
