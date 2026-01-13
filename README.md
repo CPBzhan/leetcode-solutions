@@ -40,4 +40,5 @@ leetcode-solutions/
 | 3228 | Maximum Operations | Medium | [CPP](./src/3228-Maximum-Operations/3228.cpp) | 2025-11-13 |
 | 3234 | CntTheSubstrWith1 | Medium | [PY](./src/3234-CntTheSubstrWith1/3234.py) | 2025-11-15 |
 | 3381 | maxSubArrDivK | Medium | [PY](./src/3381-maxSubArrDivK/3381.py) | 2025-11-27 |
+| 3453 | SeprateSquare1 | Medium | [PY](./src/3453-SeprateSquare1/3453.py) | 2026-01-13 |
 | 3623 | CntNumTrop | Medium | [CPP](./src/3623-CntNumTrop/3623.cpp) | 2025-12-02 |
