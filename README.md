@@ -29,9 +29,11 @@ leetcode-solutions/
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
 | 757 | SetIntersectionTwo | Hard | [PY](./src/757-SetIntersectionTwo/757.py) | 2025-11-20 |
 | 898 | BitwiseOrSubarr | Medium | [PY](./src/898-BitwiseOrSubarr/898.py) | 2025-11-18 |
+| 944 | DeleteColSort | Easy | [PY](./src/944-DeleteColSort/944.py) | 2026-01-14 |
 | 961 | NrepeatedElemArr | Easy | [CPP](./src/961-NrepeatedElemArr/961.cpp) | 2026-01-14 |
 | 1262 | GreatSumDiv3 | Medium | [PY](./src/1262-GreatSumDiv3/1262.py) | 2025-11-23 |
 | 1266 | MinTimeVisitAllp | Easy | [PY](./src/1266-MinTimeVisitAllp/1266.py) | 2026-01-12 |
+| 1351 | CntNegInMatix | Easy | [PY](./src/1351-CntNegInMatix/1351.py) | 2026-01-14 |
 | 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
 | 1513 | NumberOfStrOly1 | Medium | [PY](./src/1513-NumberOfStrOly1/1513.py) | 2025-11-16 |
 | 1930 | Unique3Palindromic | Medium | [PY](./src/1930-Unique3Palindromic/1930.py) | 2025-11-21 |
