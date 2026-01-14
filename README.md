@@ -21,6 +21,7 @@ leetcode-solutions/
 
 | ID | Problem | Difficulty | Languages | Last Update |
 |----|---------|------------|-----------|-------------|
+| 66 | PlusOne | Easy | [PY](./src/66-PlusOne/66.py) | 2026-01-14 |
 | 118 | PascalTriangle | Easy | [PY](./src/118-PascalTriangle/118.py) | 2025-11-19 |
 | 119 | PascalTriangle2 | Easy | [PY](./src/119-PascalTriangle2/119.py) | 2025-11-19 |
 | 192 | InSubsequence | Easy | [PY](./src/192-InSubsequence/192.py) | 2025-11-20 |
