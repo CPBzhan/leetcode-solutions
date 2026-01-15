@@ -40,6 +40,7 @@ leetcode-solutions/
 | 2154 | KeepMulBytwo | Easy | [PY](./src/2154-KeepMulBytwo/2154.py) | 2025-11-19 |
 | 2536 | IncrementSubmatrixBy1 | Medium | [PY](./src/2536-IncrementSubmatrixBy1/2536.py) | 2025-11-14 |
 | 2785 | SortVowelStr | Medium | [PY](./src/2785-SortVowelStr/2785.py) | 2025-11-18 |
+| 2943 | MaxAreaSquareHole | Medium | [PY](./src/2943-MaxAreaSquareHole/2943.py) | 2026-01-15 |
 | 3190 | FindMinOpDiv3 | Easy | [PY](./src/3190-FindMinOpDiv3/3190.py) | 2025-11-22 |
 | 3228 | Maximum Operations | Medium | [CPP](./src/3228-Maximum-Operations/3228.cpp) | 2025-11-13 |
 | 3234 | CntTheSubstrWith1 | Medium | [PY](./src/3234-CntTheSubstrWith1/3234.py) | 2025-11-15 |
