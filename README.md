@@ -36,6 +36,7 @@ leetcode-solutions/
 | 1351 | CntNegInMatix | Easy | [PY](./src/1351-CntNegInMatix/1351.py) | 2026-01-14 |
 | 1437 | CheckIfAll1k | Easy | [CPP](./src/1437-CheckIfAll1k/1437.cpp) | 2025-11-17 |
 | 1513 | NumberOfStrOly1 | Medium | [PY](./src/1513-NumberOfStrOly1/1513.py) | 2025-11-16 |
+| 1895 | LargeMagicSqr | Medium | [PY](./src/1895-LargeMagicSqr/1895.py) | 2026-01-18 |
 | 1930 | Unique3Palindromic | Medium | [PY](./src/1930-Unique3Palindromic/1930.py) | 2025-11-21 |
 | 2154 | KeepMulBytwo | Easy | [PY](./src/2154-KeepMulBytwo/2154.py) | 2025-11-19 |
 | 2536 | IncrementSubmatrixBy1 | Medium | [PY](./src/2536-IncrementSubmatrixBy1/2536.py) | 2025-11-14 |
