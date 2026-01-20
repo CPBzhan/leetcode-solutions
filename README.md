@@ -30,6 +30,7 @@ leetcode-solutions/
 | 209 | MinSubArrSum | Medium | [PY](./src/209-MinSubArrSum/209.py) | 2026-01-19 |
 | 268 | MissingNum | Easy | [PY](./src/268-MissingNum/268.py) | 2026-01-20 |
 | 342 | Power4 | Easy | [PY](./src/342-Power4/342.py) | 2026-01-20 |
+| 389 | DiffLetter | Easy | [PY](./src/389-DiffLetter/389.py) | 2026-01-20 |
 | 509 | FibNum | Easy | [PY](./src/509-FibNum/509.py) | 2025-11-20 |
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
 | 757 | SetIntersectionTwo | Hard | [PY](./src/757-SetIntersectionTwo/757.py) | 2025-11-20 |
