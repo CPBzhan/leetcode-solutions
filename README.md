@@ -32,6 +32,7 @@ leetcode-solutions/
 | 342 | Power4 | Easy | [PY](./src/342-Power4/342.py) | 2026-01-20 |
 | 389 | DiffLetter | Easy | [PY](./src/389-DiffLetter/389.py) | 2026-01-20 |
 | 509 | FibNum | Easy | [PY](./src/509-FibNum/509.py) | 2025-11-20 |
+| 693 | BinAltBit | Easy | [PY](./src/693-BinAltBit/693.py) | 2026-01-20 |
 | 717 | 1bitOr2bit | Easy | [PY](./src/717-1bitOr2bit/717.py) | 2025-11-18 |
 | 757 | SetIntersectionTwo | Hard | [PY](./src/757-SetIntersectionTwo/757.py) | 2025-11-20 |
 | 898 | BitwiseOrSubarr | Medium | [PY](./src/898-BitwiseOrSubarr/898.py) | 2025-11-18 |
