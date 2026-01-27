@@ -59,3 +59,4 @@ leetcode-solutions/
 | 3381 | maxSubArrDivK | Medium | [PY](./src/3381-maxSubArrDivK/3381.py) | 2025-11-27 |
 | 3453 | SeprateSquare1 | Medium | [PY](./src/3453-SeprateSquare1/3453.py) | 2026-01-13 |
 | 3623 | CntNumTrop | Medium | [CPP](./src/3623-CntNumTrop/3623.cpp) | 2025-12-02 |
+| 3650 | MinCostEdgeRev | Medium | [CPP](./src/3650-MinCostEdgeRev/3650.cpp) | 2026-01-27 |
