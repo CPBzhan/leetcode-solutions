@@ -51,6 +51,7 @@ leetcode-solutions/
 | 2785 | SortVowelStr | Medium | [PY](./src/2785-SortVowelStr/2785.py) | 2025-11-18 |
 | 2943 | MaxAreaSquareHole | Medium | [PY](./src/2943-MaxAreaSquareHole/2943.py) | 2026-01-15 |
 | 2975 | MaxAreaSquareRMf | Medium | [PY](./src/2975-MaxAreaSquareRMf/2975.py) | 2026-01-16 |
+| 2976 | MinCostConvStr1 | Medium | [PY](./src/2976-MinCostConvStr1/2976.py) | 2026-01-29 |
 | 3190 | FindMinOpDiv3 | Easy | [PY](./src/3190-FindMinOpDiv3/3190.py) | 2025-11-22 |
 | 3228 | Maximum Operations | Medium | [CPP](./src/3228-Maximum-Operations/3228.cpp) | 2025-11-13 |
 | 3234 | CntTheSubstrWith1 | Medium | [PY](./src/3234-CntTheSubstrWith1/3234.py) | 2025-11-15 |
