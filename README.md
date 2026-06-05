@@ -21,6 +21,8 @@ leetcode-solutions/
 
 | ID | Problem | Difficulty | Languages | Last Update |
 |----|---------|------------|-----------|-------------|
+| 5 | LPaliSubStr | Medium | [PY](./src/5-LPaliSubStr/5.py) | 2026-06-04 |
+| 22 | GenerateParentheses | Medium | [PY](./src/22-GenerateParentheses/22.py) | 2026-06-05 |
 | 66 | PlusOne | Easy | [PY](./src/66-PlusOne/66.py) | 2026-01-14 |
 | 67 | BitAdd | Easy | [PY](./src/67-BitAdd/67.py) | 2026-01-20 |
 | 118 | PascalTriangle | Easy | [PY](./src/118-PascalTriangle/118.py) | 2025-11-19 |
